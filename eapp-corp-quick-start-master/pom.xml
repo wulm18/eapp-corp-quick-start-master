@@ -10,7 +10,6 @@
 	<packaging>war</packaging>
 
 	<name>eapp-corp-quick-start</name>
-	<description>企业自建E应用快速体验程序</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -122,4 +121,5 @@
 	</build>
 	
 
+	<description>自动发送月报</description>
 </project>
